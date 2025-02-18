@@ -1,0 +1,79 @@
+  <!DOCTYPE html>
+<html>
+  <head>
+
+    <title>INDIAN HISTORY</title>
+  </head>
+<body>
+  <!-- Headings -->
+  <h1>MODULE 1 CHAPTER 1</h1>
+  <h2>SATYAGRAHA</h2>
+  <h3>Developed by Mahatma Gandhi</h3>
+
+  <!-- Paragraph -->
+  <p>Satyagraha is a powerful concept of nonviolent resistance and civil disobedience</p>
+
+  <!-- Line Break and Horizontal Line -->
+  <p>Key points of satyagraha include 1.non violence</p>
+  <br>2.Truth
+  <hr>3. Self suffering
+
+  <!-- Image -->
+  <p>satyagraha movement image</p>
+  <img src=https://images.app.goo.gl/RK2caHLNovmHPdnX9 alt="click here">
+
+  <!-- Link -->
+  <p>Visit <a href="https://www.wikipedia.org" target="_blank">Wikipedia</a> for more information.</p>
+
+  <!-- Unordered List -->
+  <p>Unordered List of Items:</p>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+
+  <!-- Ordered List -->
+  <p>Ordered List of Steps:</p>
+  <ol>
+    <li>Step 1</li>
+    <li>Step 2</li>
+    <li>Step 3</li>
+  </ol>
+
+  <!-- Table -->
+  <p>Sample Table:</p>
+  <table border="1">
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>City</th>
+    </tr>
+    <tr>
+      <td>Shelna</td>
+      <td>21</td>
+      <td>Kerala</td>
+    </tr>
+    <tr>
+      <td>John</td>
+      <td>22</td>
+      <td>Delhi</td>
+    </tr>
+  </table>
+
+  <!-- Form -->
+  <p>Sample Form:</p>
+  <form action="#">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username"><br><br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password"><br><br>
+    <input type="submit" value="Submit">
+  </form>
+
+  <!-- Blockquote -->
+  <p>Blockquote Example:</p>
+  <blockquote>This is a blockquote. It is used for quoting sections of content.</blockquote>
+
+</body>
+</html>
