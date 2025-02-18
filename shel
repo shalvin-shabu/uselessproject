@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1></h1>
+
+<P>experiments on visual Studio code. </P>
+
+<h2> Leasn with w3 School </b27
+
+<P>HTML Study is easy with help of w3school, It is awise
+
+Choise: </P>
+
+<a href = "https: //www.w3schools.com"> Visit W3Schools</a>
+
+<h3> Back Profile </b3>
+
+<p>photography is a kind of ast. Back Profile is asmall branch Of it. lover the whatevers beauty using Camera: </P>
+
+<img src= img_girl_jpg" width="500" height="600">"
+
+<h2> WEISS INDICES</b2>
+
+<P> The ratio of intercepts of any crystal on the Crystallographic
+
+anxis are given by: </P>
+
+<h2> Some silly matters </h2>
+
+<P style= "Colour: red;"> Pq: qb:+c </p>
+<h1> This is APPLE 2/51>
+
+<p> it is a Fruit.</p>
+
+<hr>
+
+<h2> This is a BRINGAL </b27
+
+<P> It is a vegtable.</P>
+
+<hr>
+
+<h2> This is a cow </b27
+
+<P>It is a canimal.</P>
+
+<P> This is <br> a tutorial video (bo> with Subtitles.</P>
+
+<h1> BACKGROUND WITH BLUE </627
+
+<P> think a thought with Powder blue-</P>
+
+<h1 style="background-color: Powder blue;"> This is a blue box</h2>
+
+<Pstyle="background-color: tomato; "> This is a red box. </P>
+
+<h1 style= "Color blue;"> I think you got an idea about Colours (62)
+
+<P style="color: red;"> This one is last about Colours. </P>
+
+<h1 style="font-family: verd dana;"> EYE TESTING </h1>
+
+<P style= "font-family: Courier; "> Lest of Some letters below lets
+
+Check how can read you. </P>short range order it is called isotrophic.</P>
+
+<style>
+
+table { font-family: arial, sans-serif;
+
+border Collapse: collapse;
+
+width: 100%; }
+
+td. th { border: 1px solid #dddddd;
+
+text-align: left;
+
+Padding: 8 Px; }
+
+tr:nth-child (even) { background-color: #ddd ddd', }
+
+</style>
+
+</head>
+
+<body>
+
+<h2>10 TH STUDENTS</b27
+
+<table>
+
+<tr>
+
+<th> Classes </th>
+
+<th> Division </th>
+
+<tb> wo of Students </th>
+
+</to>
+
+<tr>
+
+<td> 10 std </td><td>A</td>
+
+<td>20</td>
+
+マリーン
+
+</tr>
+
+<tr>
+
+td>10 std 2/&d>
+
+<td>B</td>
+
+<td>25</td>
+
+</tr>
+
+}
+
+<tr>
+
+<td> 10 Std 2/td>
+
+<td>C</td>
+
+<td>30</td>
+
+<2717
+
+<tr>
+
+<td>10 std </td>
+
+<td>D</td>
+
+<td>35</td>
+
+<27/7
+
+<tr>
+
+<td>Lo std </a>
+
+<td>E</td><id> 40</td>
+
+</tr>
+
+<td> 10 std </td>
+
+<td>F</td>
+
+<td>45</td>
+
+</tr>
+
+</table>
+
+<h2> things that buy today </h2>
+
+Lul>
+
+<li> Coconut di>
+
+<li>Tomato <パ>
+
+<li> (bringal </li>
+
+</ul>
+
+<h2> Things that buy tommorow </b2><h2> A Description about vegtables </h2>
+
+<d17
+
+<dt>bringal </dt>
+
+<dd>-It is a violet colour vegtable </dd>
+
+<dt> tomato </dt>
+
+<dd>- It is a red lolour vegtable </dd>
+
+</dl>
+
+<style>
+
+City { background-color: tomato; color: white;
+
+border: 2px solid black;
+
+margin: 20px
+
+Padding:20px;}
+
+</style>
+
+</head>
+
+<body>
+
+<div class= "city">
+
+<h2>Cow</b2)
+
+<P> Cow gives milk </P>
+
+</div><form action="/action-Page.php">
+
+<label for "Frame"> Fiast name: </label><br>
+
+<input type="text" id="frame" name="frame" value="Pranavš
+
+<label for="name"> Last name: L/label><br>
+
+Cinput type = "text" id="Iname" name. "I name" value="mohanlals <br><br>
+
+</form>
+
+<P> choose your favorite movie: </P>
+
+13
+
+<form>
+
+<input type="radio" id Hrydayam" name = "Fav-language" value= Hrydayam">
+
+<label for= "html"> Hrydayam </label><br>
+
+<mput type="radio" id "Aadhi" name = "fav_language" value= "Aadhi">
+
+<label for="css"> <Aadhi </label><br>
+
+<input type="radio" id="varshangalkk shesham" name = "Fav-language
+
+Value: "Varshangalkk Shesham">
+
+<label for="javascript"> var shangalkk shesham </label>
+
+</form><P> The <strong>Its Final Choise </s>make a wise choise.</P>
+
+<form action="/action_Page.Php">
+
+Cinput type="checkbox" id="vehicle 1" name="vehicle I" value-bikes
+
+<label for="vehicle 1"> I have a bike </label><br>
+
+Cumput type="checkbox" id="vehicle 2" name = "vehicle 2" value="ari>
+
+<label for="vehicle 2's th ave a lar</label> <br>
+
+<input type="checkbox" id="vehicle 3"name" vehicle 3"value: "Boat">
+
+Clabel for="vehicle3"> I have a boat </label> <br> <br>
+
+<input type="submit" value="submit">
+
+</form>
+
+</body>
+
+</html>
